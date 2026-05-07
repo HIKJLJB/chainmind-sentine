@@ -1,0 +1,12 @@
+{
+  "name": "chainmind-sentinel",
+  "version": "1.0.0",
+  "description": "AI-powered Web3 automation agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0"
+  }
+}
